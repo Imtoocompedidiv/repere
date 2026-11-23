@@ -70,4 +70,4 @@ Les documents restent sur votre appareil ; GitHub Pages reçoit uniquement les r
 
 ## Crédits
 
-Projet de JD. React, Vite, TypeScript et Vitest ; Manrope et IBM Plex Mono via Fontsource. Les exemples sont entièrement fictifs. Code sous licence MIT ; licences des dépendances conservées.
+React, Vite, TypeScript et Vitest ; Manrope et IBM Plex Mono via Fontsource. Les exemples sont entièrement fictifs. Code sous licence MIT ; licences des dépendances conservées.
